@@ -1,4 +1,4 @@
-# Assignment 2: Play with a 2x2 Rubik Cube
+# Assignment 3: Play with a 2x2 Rubik Cube
 by 
 
 **NAME**:
