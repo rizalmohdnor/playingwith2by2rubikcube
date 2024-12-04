@@ -1,4 +1,7 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
+by 
+**NAME**:
+**Matric ID**
 
 ## Objective
 
@@ -8,6 +11,7 @@
 4. Modify the logic for rotating the 2x2 cube.
 5. Add buttons below the cube to create action buttons.
 6. Create a simple 2x2 rubik cube application that allows the user to rotate the faces of a rubik cube. The code given doesn't work. You may have to read the code and complete some functions and add buttons.
+7. Make sure to only submit your /lib folder and modify the readme to describe what was done. You must also include your name and matric ID in this readme file.
 
 ## Requirements:
 
